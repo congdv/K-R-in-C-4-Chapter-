@@ -1,3 +1,2 @@
-# K-R-in-C-4-Chapter-
-Excersise
-Practice c 
+# The C programing language
+I just have done 4 chapter 
